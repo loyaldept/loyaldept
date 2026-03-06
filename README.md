@@ -6,7 +6,7 @@
 
 I studied **Finance & Computer Science** — the intersection where I build everything.
 
-Became the **youngest intern at Deloitte**, then built my first startup — which got **acquired when I was 19**. Now I'm building enterprises, getting liquid, and gearing up to play the big game by backing ambitious founders.
+Became the **youngest intern at Deloitte**, then built my first startup — which got **acquired when I was 19**. Now I'm building enterprises, getting liquid, and gearing up to play the big game.
 
 I work across **Finance, LLMs, Blockchain Networks & Digital Tech**. Previously worked with **Super Liquid (AR)**. I can spin up **AI Agents** across literally any field.
 

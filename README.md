@@ -25,13 +25,25 @@ Currently building **[@trysiml](https://trysiml.com)**.
 
 ---
 
-### 📈 Stats
+### 📈 Stats — 2026
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=loyaldept&background=0D1117&ring=00D9FF&fire=BD00FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&border=1A1A2E"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=loyaldept&background=0D1117&ring=00D9FF&fire=BD00FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&border=1A1A2E"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=loyaldept&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=BD00FF&border_color=1A1A2E&hide_border=false&custom_title=2026%20so%20far"/>
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loyaldept&bg_color=0D1117&color=00D9FF&line=BD00FF&point=FFFFFF&area=true&area_color=BD00FF20&hide_border=true)](https://github.com/loyaldept)
+<p align="center"><sub>Last 3 months · daily commits</sub></p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loyaldept&days=90&bg_color=0D1117&color=00D9FF&line=BD00FF&point=FFFFFF&area=true&area_color=BD00FF20&hide_border=true&custom_title=Last%2090%20days)](https://github.com/loyaldept)
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loyaldept&theme=react_dark&utcOffset=-5"/>
+  &nbsp;
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loyaldept&theme=react_dark"/>
+</p>
+
+> The contribution heatmap on my profile rolls 12 months — click **2026** in the year selector on the right of the page for this year only.
 
 ---
 

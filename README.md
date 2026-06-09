@@ -4,7 +4,7 @@
 
 ### 🧬 About Me
 
-I studied **Finance & Computer Science** — the intersection where I build everything.
+I studied **Econ & Computer Science** — the intersection where I build everything.
 
 Became the **youngest intern at Deloitte**, then built my first startup — which got **acquired when I was 19**. Now I'm building enterprises, getting liquid, and gearing up to play the big game.
 
